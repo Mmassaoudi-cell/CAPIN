@@ -208,9 +208,9 @@ If you use this code in your research, please cite:
   title     = {A Constraint-Aware Physics-Informed Neural Network for Enhanced
                Intrusion Detection in Cyber-Physical Smart Grids},
   author    = {Massaoudi, Mohamed and Ez Eddin, Maymouna},
-  journal   = {Energy},
+  journal   = { Sustainable Energy, Grids and Networks},
   publisher = {Elsevier},
-  year      = {2025},
+  year      = {2026},
   note      = {Under review}
 }
 ```
