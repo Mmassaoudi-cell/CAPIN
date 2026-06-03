@@ -1,10 +1,10 @@
 # CAPIN — Constraint-Aware Physics-Informed Neural Network for Smart Grid Intrusion Detection
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c.svg)](https://pytorch.org/)
-[![PyG](https://img.shields.io/badge/PyTorch%20Geometric-2.7-3c9.svg)](https://pytorch-geometric.readthedocs.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-f89939.svg)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.x-189fdd.svg)](https://xgboost.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
-[![Conference](https://img.shields.io/badge/IECON-2026%20(submitted)-orange.svg)](https://www.ieee-ies.org/)
+[![Journal](https://img.shields.io/badge/SEGAN-submitted-orange.svg)](https://www.journals.elsevier.com/sustainable-energy-grids-and-networks)
 
 
 Official implementation of the paper:
@@ -12,7 +12,7 @@ Official implementation of the paper:
 > **A Constraint-Aware Physics-Informed Neural Network for Enhanced Intrusion Detection in Cyber-Physical Smart Grids**  
 > Mohamed Massaoudi, Maymouna Ez Eddin  
 > *Sustainable Energy, Grids and Networks Journal, Elsevier (under review)*
-![The CAPIN Architecture](Flowshart.png)
+![The CAPIN Architecture](CAPIN.png)
 ---
 
 ## Overview
