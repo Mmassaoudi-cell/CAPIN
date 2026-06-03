@@ -12,7 +12,7 @@ Official implementation of the paper:
 > **A Constraint-Aware Physics-Informed Neural Network for Enhanced Intrusion Detection in Cyber-Physical Smart Grids**  
 > Mohamed Massaoudi, Maymouna Ez Eddin  
 > *Sustainable Energy, Grids and Networks Journal, Elsevier (under review)*
-![The CAPIN Architecture](Flowchart.png)
+![The CAPIN Architecture](Flowshart.png)
 ---
 
 ## Overview
